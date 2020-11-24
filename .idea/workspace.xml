@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fd41687c-cb56-4360-88ac-19da522640c3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="ProjectId" id="1kifeywr6pvYE9bDuYmviNF54pw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.4.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.14.9" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/img" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/app.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.app.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd41687c-cb56-4360-88ac-19da522640c3" name="Default Changelist" comment="" />
+      <created>1606188432062</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606188432062</updated>
+      <workItem from="1606188433167" duration="3996000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="598" y="359" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606190472950">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="598" y="359" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1792.1095@0.25.1792.1095" timestamp="1606190472950" />
+    <state width="1766" height="295" key="GridCell.Tab.0.bottom" timestamp="1606193125665">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1766" height="295" key="GridCell.Tab.0.bottom/0.25.1792.1095@0.25.1792.1095" timestamp="1606193125665" />
+    <state width="1766" height="295" key="GridCell.Tab.0.center" timestamp="1606193125665">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1766" height="295" key="GridCell.Tab.0.center/0.25.1792.1095@0.25.1792.1095" timestamp="1606193125665" />
+    <state width="1766" height="295" key="GridCell.Tab.0.left" timestamp="1606193125664">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1766" height="295" key="GridCell.Tab.0.left/0.25.1792.1095@0.25.1792.1095" timestamp="1606193125664" />
+    <state width="1766" height="295" key="GridCell.Tab.0.right" timestamp="1606193125665">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1766" height="295" key="GridCell.Tab.0.right/0.25.1792.1095@0.25.1792.1095" timestamp="1606193125665" />
+    <state x="506" y="100" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1606193008439">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="506" y="100" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.25.1792.1095@0.25.1792.1095" timestamp="1606193008439" />
+  </component>
+</project>
